@@ -11,7 +11,7 @@
     </METADATA>
     <CONTENT>
      <SOURCE>@Metadata.layer: #CORE
-annotate view z_test_ddls with
+annotate view zddls with
 {
   //z_test_ddls
   @UI.lineItem: [{ position: 20 }]
